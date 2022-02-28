@@ -1,0 +1,19 @@
+{
+  "name": "@johnnymissile/react-calendar-hook",
+  "version": "1.0.0",
+  "description": "Hook to build custom calendar with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyVegasMissile/react-calendar-hook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyVegasMissile/react-calendar-hook/issues"
+  },
+  "homepage": "https://github.com/JohnnyVegasMissile/react-calendar-hook#readme"
+}
